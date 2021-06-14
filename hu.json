@@ -1,0 +1,16 @@
+"I can't join to the voice channel": {"Nem tudok belépni a hangcsatornába"};
+"You need to join a voice channel": {"Lépj be egy hangcsatornába"};
+"The video is copyrighted": {"Ez a videó védett"};
+"added to the queue": {"hozzáadva a lejátszási listához"};
+"I don't playing music right now": {"Jelenleg nem játszódik le zene"};
+"Playing:": {"Lejátszás alatt"};
+"Ping": {"Késleltetés"};
+"Do you know the synonyms?": {"Ismered a szinoníma szótárat?"};
+"You don't have permission to do that": {"Nincs jogosultságod ehhez"};
+"created": {"elkészítve"};
+"I can't send this to a not NSFW channel.": {"Nem tudom elküldeni egy nem NSFW csatornába."};
+"The badwords filter is now on": {"A káromkodásszűrő bekapcsolva"};
+"The badwords filter is now off": {"A káromkodásszűrő kikapcsolva"};
+"Already set to this setting.": {"Már erre van beállítva"};
+"This command does not exist!": {"Ez a parancs nem létezik"};
+"Great. You set this setting": {"Nagyszerű. Beállítottad ezt a beállítást"};
